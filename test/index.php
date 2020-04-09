@@ -7,7 +7,7 @@ $novoEmail = new Email(
     2,
     "smtp.hostinger.com.br",
     "edimarbarros@hode.com.br",
-    "T3ch3xpr3ss",
+    "",
     "tsl",
     587,
     "edimarbarros@hode.com.br",
